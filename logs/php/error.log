@@ -113,3 +113,123 @@
 [24-Dec-2023 22:37:17 UTC] Sync process for Gutenberg Blocks is done.
 [24-Dec-2023 22:37:17 UTC] BLOCK: Getting Server Custimizer CSS
 [24-Dec-2023 22:37:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[25-Dec-2023 00:20:29 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/natures-02.jpg
+[25-Dec-2023 00:20:29 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/10/natures-02.jpg
+[25-Dec-2023 00:20:29 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/10\/natures-02.jpg","id":0}
+[25-Dec-2023 00:20:29 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:20:29 UTC] natures-02.jpg
+[25-Dec-2023 00:20:29 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/natures-02.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/natures-02.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:20:29 UTC] {"post_title":"natures-02.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/natures-02.jpg"}
+[25-Dec-2023 00:20:29 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/natures-02.jpg
+[25-Dec-2023 00:20:29 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/rivers-01.jpg
+[25-Dec-2023 00:20:29 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/10/rivers-01.jpg
+[25-Dec-2023 00:20:29 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/10\/rivers-01.jpg","id":0}
+[25-Dec-2023 00:20:29 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:20:30 UTC] rivers-01.jpg
+[25-Dec-2023 00:20:30 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/rivers-01.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/rivers-01.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:20:30 UTC] {"post_title":"rivers-01.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/rivers-01.jpg"}
+[25-Dec-2023 00:20:30 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/rivers-01.jpg
+[25-Dec-2023 00:20:30 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/snow-mountains-01.jpg
+[25-Dec-2023 00:20:30 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/10/snow-mountains-01.jpg
+[25-Dec-2023 00:20:30 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/10\/snow-mountains-01.jpg","id":0}
+[25-Dec-2023 00:20:30 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:20:31 UTC] snow-mountains-01.jpg
+[25-Dec-2023 00:20:31 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/snow-mountains-01.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/snow-mountains-01.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:20:31 UTC] {"post_title":"snow-mountains-01.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/snow-mountains-01.jpg"}
+[25-Dec-2023 00:20:31 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/snow-mountains-01.jpg
+[25-Dec-2023 00:22:12 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/about-03-1.jpg
+[25-Dec-2023 00:22:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/09/about-03-1.jpg
+[25-Dec-2023 00:22:12 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/09\/about-03-1.jpg","id":0}
+[25-Dec-2023 00:22:12 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:22:12 UTC] about-03-1.jpg
+[25-Dec-2023 00:22:12 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/about-03-1.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/about-03-1.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:22:12 UTC] {"post_title":"about-03-1.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/about-03-1.jpg"}
+[25-Dec-2023 00:22:12 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/about-03-1.jpg
+[25-Dec-2023 00:22:12 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/about-04.jpg
+[25-Dec-2023 00:22:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/09/about-04.jpg
+[25-Dec-2023 00:22:12 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/09\/about-04.jpg","id":0}
+[25-Dec-2023 00:22:12 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:22:13 UTC] about-04.jpg
+[25-Dec-2023 00:22:13 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/about-04.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/about-04.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:22:13 UTC] {"post_title":"about-04.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/about-04.jpg"}
+[25-Dec-2023 00:22:13 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/about-04.jpg
+[25-Dec-2023 00:22:13 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/about-05.jpg
+[25-Dec-2023 00:22:13 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/09/about-05.jpg
+[25-Dec-2023 00:22:13 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/09\/about-05.jpg","id":0}
+[25-Dec-2023 00:22:13 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:22:13 UTC] about-05.jpg
+[25-Dec-2023 00:22:13 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/about-05.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/about-05.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:22:13 UTC] {"post_title":"about-05.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/about-05.jpg"}
+[25-Dec-2023 00:22:14 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/about-05.jpg
+[25-Dec-2023 00:23:29 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/desserts-02.jpg
+[25-Dec-2023 00:23:29 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/10/desserts-02.jpg
+[25-Dec-2023 00:23:29 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/10\/desserts-02.jpg","id":0}
+[25-Dec-2023 00:23:29 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:23:30 UTC] desserts-02.jpg
+[25-Dec-2023 00:23:30 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/desserts-02.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/desserts-02.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:23:30 UTC] {"post_title":"desserts-02.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/desserts-02.jpg"}
+[25-Dec-2023 00:23:30 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/desserts-02.jpg
+[25-Dec-2023 00:23:30 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/natures-02.jpg
+[25-Dec-2023 00:23:30 UTC] Log - {"id":"645","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/natures-02.jpg"}
+[25-Dec-2023 00:23:30 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/snow-mountains-02.jpg
+[25-Dec-2023 00:23:30 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/10/snow-mountains-02.jpg
+[25-Dec-2023 00:23:30 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/10\/snow-mountains-02.jpg","id":0}
+[25-Dec-2023 00:23:30 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:23:30 UTC] snow-mountains-02.jpg
+[25-Dec-2023 00:23:30 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/snow-mountains-02.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/snow-mountains-02.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:23:30 UTC] {"post_title":"snow-mountains-02.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/snow-mountains-02.jpg"}
+[25-Dec-2023 00:23:30 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/snow-mountains-02.jpg
+[25-Dec-2023 00:23:30 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/mountains-02.jpg
+[25-Dec-2023 00:23:30 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/10/mountains-02.jpg
+[25-Dec-2023 00:23:30 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/10\/mountains-02.jpg","id":0}
+[25-Dec-2023 00:23:30 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[25-Dec-2023 00:23:30 UTC] mountains-02.jpg
+[25-Dec-2023 00:23:30 UTC] {"file":"C:\\Users\\zayd-\\Local Sites\\cosmeticraft\\app\\public\/wp-content\/uploads\/2023\/12\/mountains-02.jpg","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/mountains-02.jpg","type":"image\/jpeg","error":false}
+[25-Dec-2023 00:23:30 UTC] {"post_title":"mountains-02.jpg","guid":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/mountains-02.jpg"}
+[25-Dec-2023 00:23:31 UTC] BATCH - SUCCESS Image {Imported} - http://cosmeticraft.local/wp-content/uploads/2023/12/mountains-02.jpg
+[25-Dec-2023 02:08:10 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/desserts-02.jpg
+[25-Dec-2023 02:08:10 UTC] Log - {"id":"652","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/desserts-02.jpg"}
+[25-Dec-2023 02:08:10 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/natures-02.jpg
+[25-Dec-2023 02:08:10 UTC] Log - {"id":"645","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/natures-02.jpg"}
+[25-Dec-2023 02:08:10 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/snow-mountains-02.jpg
+[25-Dec-2023 02:08:10 UTC] Log - {"id":"653","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/snow-mountains-02.jpg"}
+[25-Dec-2023 02:08:10 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/10/mountains-02.jpg
+[25-Dec-2023 02:08:10 UTC] Log - {"id":"654","url":"http:\/\/cosmeticraft.local\/wp-content\/uploads\/2023\/12\/mountains-02.jpg"}
+[27-Dec-2023 00:38:25 UTC] Sync process for Gutenberg Blocks has started.
+[27-Dec-2023 00:38:25 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[27-Dec-2023 00:38:25 UTC] BLOCK: Requests count 8
+[27-Dec-2023 00:38:25 UTC] BLOCK: Importing request 1 ..
+[27-Dec-2023 00:38:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[27-Dec-2023 00:38:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[27-Dec-2023 00:38:26 UTC] BLOCK: Completed request 1
+[27-Dec-2023 00:38:26 UTC] BLOCK: Importing request 2 ..
+[27-Dec-2023 00:38:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[27-Dec-2023 00:38:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[27-Dec-2023 00:38:27 UTC] BLOCK: Completed request 2
+[27-Dec-2023 00:38:27 UTC] BLOCK: Importing request 3 ..
+[27-Dec-2023 00:38:27 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[27-Dec-2023 00:38:27 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[27-Dec-2023 00:38:28 UTC] BLOCK: Completed request 3
+[27-Dec-2023 00:38:28 UTC] BLOCK: Importing request 4 ..
+[27-Dec-2023 00:38:28 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[27-Dec-2023 00:38:28 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[27-Dec-2023 00:38:28 UTC] BLOCK: Completed request 4
+[27-Dec-2023 00:38:28 UTC] BLOCK: Importing request 5 ..
+[27-Dec-2023 00:38:28 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[27-Dec-2023 00:38:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[27-Dec-2023 00:38:29 UTC] BLOCK: Completed request 5
+[27-Dec-2023 00:38:29 UTC] BLOCK: Importing request 6 ..
+[27-Dec-2023 00:38:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[27-Dec-2023 00:38:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[27-Dec-2023 00:38:29 UTC] BLOCK: Completed request 6
+[27-Dec-2023 00:38:29 UTC] BLOCK: Importing request 7 ..
+[27-Dec-2023 00:38:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[27-Dec-2023 00:38:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[27-Dec-2023 00:38:30 UTC] BLOCK: Completed request 7
+[27-Dec-2023 00:38:30 UTC] BLOCK: Importing request 8 ..
+[27-Dec-2023 00:38:30 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[27-Dec-2023 00:38:30 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[27-Dec-2023 00:38:30 UTC] BLOCK: Completed request 8
+[27-Dec-2023 00:38:30 UTC] Sync process for Gutenberg Blocks is done.
+[27-Dec-2023 00:38:30 UTC] BLOCK: Getting Server Custimizer CSS
+[27-Dec-2023 00:38:30 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css

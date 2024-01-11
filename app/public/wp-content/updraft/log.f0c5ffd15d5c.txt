@@ -1,0 +1,273 @@
+0000.029 () Opened log file at time: Thu, 11 Jan 2024 00:40:22 +0000 on http://cosmeticraft.local
+0000.030 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.2 PHP: 8.1.23 (cgi-fcgi, Windows NT DESKTOP-HQKR0GD 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=33554432) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.5M | 14M) multisite: N openssl: OpenSSL 1.1.1t  7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.030 () Free space on disk containing Updraft's temporary directory: 16422.4 MB
+0000.130 () Restore setup, now closing connection and starting restore over AJAX.
+0000.009 () Opened log file at time: Thu, 11 Jan 2024 00:40:23 +0000 on http://cosmeticraft.local
+0000.010 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.2 PHP: 8.1.23 (cgi-fcgi, Windows NT DESKTOP-HQKR0GD 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=33554432) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.3M | 14M) multisite: N openssl: OpenSSL 1.1.1t  7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 () Free space on disk containing Updraft's temporary directory: 16421.5 MB
+0000.011 () Ensuring WP_Filesystem is setup for a restore
+0000.012 () WP_Filesystem is setup and ready for a restore
+0000.018 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_restorer_replacesiteurl":"1","include_unspecified_tables":false,"tables_to_restore":["wpxt_options","wpxt_users","wpxt_usermeta","wpxt_actionscheduler_actions","wpxt_actionscheduler_claims","wpxt_actionscheduler_groups","wpxt_actionscheduler_logs","wpxt_commentmeta","wpxt_comments","wpxt_links","wpxt_postmeta","wpxt_posts","wpxt_term_relationships","wpxt_term_taxonomy","wpxt_termmeta","wpxt_terms","wpxt_aioseo_cache","wpxt_aioseo_notifications","wpxt_aioseo_posts","wpxt_wpforms_payment_meta","wpxt_wpforms_payments","wpxt_wpforms_tasks_meta","wpxt_wpmailsmtp_debug_events","wpxt_wpmailsmtp_tasks_meta","wpxt_yoast_indexable","wpxt_yoast_indexable_hierarchy","wpxt_yoast_migrations","wpxt_yoast_primary_term","wpxt_yoast_seo_links"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.021 () PHP event: code E_WARNING: mkdir(): File exists (line 558, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-admin\includes\class-wp-filesystem-direct.php)
+0000.033 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.038 () Entity: db
+0000.038 () restore_backup(backup_file=backup_2024-01-11-0029_CosmetiCraft_6213318de370-db.gz, type=db, info=a:0:{}, last_one=)
+0000.038 () Unpacking backup... (backup_2024-01-11-0029_CosmetiCraft_6213318de370-db.gz, 2.8 Mb)
+0000.038 () PHP event: code E_WARNING: mkdir(): File exists (line 558, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-admin\includes\class-wp-filesystem-direct.php)
+0000.042 () Database successfully unpacked
+0000.043 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.066 () Using direct MySQL access; value of use_mysqli is: 1
+0000.067 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0000.205 () Max packet size: 32 MB
+0000.205 () Entering maintenance mode
+0000.205 () Enabling Maintenance mode&#8230;
+0000.226 () Backup of: https://cosmeticraft.infinityfreeapp.com
+0000.240 () Content URL: https://cosmeticraft.infinityfreeapp.com/wp-content
+0000.240 () Uploads URL: https://cosmeticraft.infinityfreeapp.com/wp-content/uploads
+0000.240 () Old table prefix: wpxt_
+0000.240 () Old ABSPATH: /home/vol15_8/infinityfree.com/if0_35691916/htdocs/
+0000.240 () UpdraftPlus plugin slug: updraftplus/updraftplus.php
+0000.240 () Site information: multisite=0
+0000.240 () Site information: sql_mode=
+0000.241 () New table prefix: kq_
+0000.248 () Processing table (InnoDB): wpxt_options - will restore as: kq_options
+0001.529 () Atomic restore: dropping original table (wp_options)
+0001.551 () Atomic restore: renaming new table (kq_options) to final table name (wp_options)
+0001.570 () Restoring prior UD configuration (table: wp_options; keys: 102)
+0002.254 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.254 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.254 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 169, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.255 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.255 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.255 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 169, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.408 () PHP event: code E_DEPRECATED: preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 48, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.453 () PHP event: code E_DEPRECATED: preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 48, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.463 () PHP event: code E_DEPRECATED: preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 48, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0002.656 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 214, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\options.php)
+0002.677 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 214, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\options.php)
+0003.220 () Table prefix has changed: changing options table field(s) accordingly (options)
+0003.223 () Options table fields changed OK
+0003.316 () Search and replacing table: wp_options: rows: 540
+0003.547 () PHP event: code E_NOTICE: unserialize(): Error at offset 1058422 of 2661345 bytes (line 411, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-content\plugins\updraftplus\includes\class-search-replace.php)
+0003.730 () Processing table (InnoDB): wpxt_users - will restore as: kq_users
+0004.012 () Atomic restore: dropping original table (wp_users)
+0004.053 () Atomic restore: renaming new table (kq_users) to final table name (wp_users)
+0004.090 () Search and replacing table: wp_users: rows: 1
+0004.095 () Processing table (InnoDB): wpxt_usermeta - will restore as: kq_usermeta
+0004.182 () Atomic restore: dropping original table (wp_usermeta)
+0004.195 () Atomic restore: renaming new table (kq_usermeta) to final table name (wp_usermeta)
+0004.212 () Table prefix has changed: changing usermeta table field(s) accordingly
+0004.219 () Usermeta table fields changed OK
+0004.221 () Search and replacing table: wp_usermeta: rows: 27
+0004.222 () Processing table (InnoDB): wpxt_actionscheduler_actions - will restore as: kq_actionscheduler_actions
+0004.339 () Atomic restore: dropping original table (wp_actionscheduler_actions)
+0004.358 () Atomic restore: renaming new table (kq_actionscheduler_actions) to final table name (wp_actionscheduler_actions)
+0004.381 () Search and replacing table: wp_actionscheduler_actions: rows: 71
+0004.385 () Processing table (InnoDB): wpxt_actionscheduler_claims - will restore as: kq_actionscheduler_claims
+0004.440 () Atomic restore: dropping original table (wp_actionscheduler_claims)
+0004.464 () Atomic restore: renaming new table (kq_actionscheduler_claims) to final table name (wp_actionscheduler_claims)
+0004.495 () Search and replacing table: wp_actionscheduler_claims: rows: 0
+0004.495 () Processing table (InnoDB): wpxt_actionscheduler_groups - will restore as: kq_actionscheduler_groups
+0004.542 () Atomic restore: dropping original table (wp_actionscheduler_groups)
+0004.554 () Atomic restore: renaming new table (kq_actionscheduler_groups) to final table name (wp_actionscheduler_groups)
+0004.579 () Search and replacing table: wp_actionscheduler_groups: rows: 4
+0004.579 () Processing table (InnoDB): wpxt_actionscheduler_logs - will restore as: kq_actionscheduler_logs
+0004.645 () Atomic restore: dropping original table (wp_actionscheduler_logs)
+0004.657 () Atomic restore: renaming new table (kq_actionscheduler_logs) to final table name (wp_actionscheduler_logs)
+0004.679 () Search and replacing table: wp_actionscheduler_logs: rows: 148
+0004.681 () Processing table (InnoDB): wpxt_commentmeta - will restore as: kq_commentmeta
+0004.754 () Atomic restore: dropping original table (wp_commentmeta)
+0004.805 () Atomic restore: renaming new table (kq_commentmeta) to final table name (wp_commentmeta)
+0004.918 () Search and replacing table: wp_commentmeta: rows: 0
+0004.918 () Processing table (InnoDB): wpxt_comments - will restore as: kq_comments
+0005.051 () Atomic restore: dropping original table (wp_comments)
+0005.075 () Atomic restore: renaming new table (kq_comments) to final table name (wp_comments)
+0005.104 () Search and replacing table: wp_comments: rows: 1
+0005.105 () Processing table (InnoDB): wpxt_links - will restore as: kq_links
+0005.199 () Atomic restore: dropping original table (wp_links)
+0005.232 () Database queries processed: 50 in 5.16 seconds
+0005.232 () Atomic restore: renaming new table (kq_links) to final table name (wp_links)
+0005.267 () Search and replacing table: wp_links: rows: 0
+0005.267 () Processing table (InnoDB): wpxt_postmeta - will restore as: kq_postmeta
+0005.481 () Atomic restore: dropping original table (wp_postmeta)
+0005.500 () Atomic restore: renaming new table (kq_postmeta) to final table name (wp_postmeta)
+0005.520 () Search and replacing table: wp_postmeta: rows: 1
+0005.587 () Processing table (InnoDB): wpxt_posts - will restore as: kq_posts
+0006.343 () Atomic restore: dropping original table (wp_posts)
+0006.371 () Atomic restore: renaming new table (kq_posts) to final table name (wp_posts)
+0006.402 () Skipping search/replace on GUID column in posts table
+0006.404 () Search and replacing table: wp_posts: rows: 153
+0007.743 () Processing table (InnoDB): wpxt_term_relationships - will restore as: kq_term_relationships
+0007.965 () Atomic restore: dropping original table (wp_term_relationships)
+0007.996 () Atomic restore: renaming new table (kq_term_relationships) to final table name (wp_term_relationships)
+0008.031 () Skipping this table: data in this table (wp_term_relationships) should not be search/replaced
+0008.031 () Processing table (InnoDB): wpxt_term_taxonomy - will restore as: kq_term_taxonomy
+0008.150 () Atomic restore: dropping original table (wp_term_taxonomy)
+0008.174 () Atomic restore: renaming new table (kq_term_taxonomy) to final table name (wp_term_taxonomy)
+0008.200 () Search and replacing table: wp_term_taxonomy: rows: 7
+0008.200 () Processing table (InnoDB): wpxt_termmeta - will restore as: kq_termmeta
+0008.302 () Atomic restore: dropping original table (wp_termmeta)
+0008.327 () Atomic restore: renaming new table (kq_termmeta) to final table name (wp_termmeta)
+0008.354 () Search and replacing table: wp_termmeta: rows: 1
+0008.355 () Processing table (InnoDB): wpxt_terms - will restore as: kq_terms
+0008.446 () Atomic restore: dropping original table (wp_terms)
+0008.466 () Atomic restore: renaming new table (kq_terms) to final table name (wp_terms)
+0008.491 () Search and replacing table: wp_terms: rows: 7
+0008.492 () Processing table (InnoDB): wpxt_aioseo_cache - will restore as: kq_aioseo_cache
+0008.618 () Atomic restore: dropping original table (wp_aioseo_cache)
+0008.646 () Atomic restore: renaming new table (kq_aioseo_cache) to final table name (wp_aioseo_cache)
+0008.680 () Search and replacing table: wp_aioseo_cache: rows: 5
+0008.691 () Processing table (InnoDB): wpxt_aioseo_notifications - will restore as: kq_aioseo_notifications
+0008.763 () Atomic restore: dropping original table (wp_aioseo_notifications)
+0008.787 () Atomic restore: renaming new table (kq_aioseo_notifications) to final table name (wp_aioseo_notifications)
+0008.932 () Search and replacing table: wp_aioseo_notifications: rows: 0
+0008.933 () Processing table (InnoDB): wpxt_aioseo_posts - will restore as: kq_aioseo_posts
+0009.020 () Atomic restore: dropping original table (wp_aioseo_posts)
+0009.047 () Atomic restore: renaming new table (kq_aioseo_posts) to final table name (wp_aioseo_posts)
+0009.073 () Search and replacing table: wp_aioseo_posts: rows: 56
+0009.336 () Processing table (InnoDB): wpxt_wpforms_payment_meta - will restore as: kq_wpforms_payment_meta
+0009.445 () Atomic restore: dropping original table (wp_wpforms_payment_meta)
+0009.474 () Atomic restore: renaming new table (kq_wpforms_payment_meta) to final table name (wp_wpforms_payment_meta)
+0009.508 () Search and replacing table: wp_wpforms_payment_meta: rows: 0
+0009.508 () Processing table (InnoDB): wpxt_wpforms_payments - will restore as: kq_wpforms_payments
+0009.633 () Atomic restore: dropping original table (wp_wpforms_payments)
+0009.659 () Atomic restore: renaming new table (kq_wpforms_payments) to final table name (wp_wpforms_payments)
+0009.700 () Search and replacing table: wp_wpforms_payments: rows: 0
+0009.700 () Processing table (InnoDB): wpxt_wpforms_tasks_meta - will restore as: kq_wpforms_tasks_meta
+0009.764 () Atomic restore: dropping original table (wp_wpforms_tasks_meta)
+0009.777 () Atomic restore: renaming new table (kq_wpforms_tasks_meta) to final table name (wp_wpforms_tasks_meta)
+0009.808 () Search and replacing table: wp_wpforms_tasks_meta: rows: 5
+0009.808 () Processing table (InnoDB): wpxt_wpmailsmtp_debug_events - will restore as: kq_wpmailsmtp_debug_events
+0009.959 () Database queries processed: 100 in 9.89 seconds
+0009.959 () Atomic restore: dropping original table (wp_wpmailsmtp_debug_events)
+0009.991 () Atomic restore: renaming new table (kq_wpmailsmtp_debug_events) to final table name (wp_wpmailsmtp_debug_events)
+0010.023 () Search and replacing table: wp_wpmailsmtp_debug_events: rows: 1
+0010.028 () Processing table (InnoDB): wpxt_wpmailsmtp_tasks_meta - will restore as: kq_wpmailsmtp_tasks_meta
+0010.088 () Atomic restore: dropping original table (wp_wpmailsmtp_tasks_meta)
+0010.115 () Atomic restore: renaming new table (kq_wpmailsmtp_tasks_meta) to final table name (wp_wpmailsmtp_tasks_meta)
+0010.145 () Search and replacing table: wp_wpmailsmtp_tasks_meta: rows: 1
+0010.146 () Processing table (MyISAM): wpxt_yoast_indexable - will restore as: kq_yoast_indexable
+0010.179 () Atomic restore: dropping original table (wp_yoast_indexable)
+0010.182 () Atomic restore: renaming new table (kq_yoast_indexable) to final table name (wp_yoast_indexable)
+0010.209 () Search and replacing table: wp_yoast_indexable: rows: 10
+0010.228 () Processing table (MyISAM): wpxt_yoast_indexable_hierarchy - will restore as: kq_yoast_indexable_hierarchy
+0010.262 () Atomic restore: dropping original table (wp_yoast_indexable_hierarchy)
+0010.266 () Atomic restore: renaming new table (kq_yoast_indexable_hierarchy) to final table name (wp_yoast_indexable_hierarchy)
+0010.293 () Search and replacing table: wp_yoast_indexable_hierarchy: rows: 7
+0010.294 () Processing table (MyISAM): wpxt_yoast_migrations - will restore as: kq_yoast_migrations
+0010.327 () Atomic restore: dropping original table (wp_yoast_migrations)
+0010.329 () Atomic restore: renaming new table (kq_yoast_migrations) to final table name (wp_yoast_migrations)
+0010.340 () Search and replacing table: wp_yoast_migrations: rows: 24
+0010.341 () Processing table (MyISAM): wpxt_yoast_primary_term - will restore as: kq_yoast_primary_term
+0010.358 () Atomic restore: dropping original table (wp_yoast_primary_term)
+0010.360 () Atomic restore: renaming new table (kq_yoast_primary_term) to final table name (wp_yoast_primary_term)
+0010.374 () Search and replacing table: wp_yoast_primary_term: rows: 0
+0010.374 () Processing table (MyISAM): wpxt_yoast_seo_links - will restore as: kq_yoast_seo_links
+0010.390 () Unlocking database and leaving maintenance mode
+0010.390 () Disabling Maintenance mode&#8230;
+0010.390 () Atomic restore: dropping original table (wp_yoast_seo_links)
+0010.393 () Atomic restore: renaming new table (kq_yoast_seo_links) to final table name (wp_yoast_seo_links)
+0010.412 () Search and replacing table: wp_yoast_seo_links: rows: 13
+0010.443 () Finished: lines processed: 120 in 10.37 seconds
+0010.444 () Cleaning up rubbish...
+0010.444 () Begin search and replace (updraftplus_restored_db)
+0010.444 () [Database-replace-site-url] Database: search and replace site URL
+0010.446 () Database search and replace: replace https://cosmeticraft.infinityfreeapp.com in backup dump with http://cosmeticraft.local
+0010.446 () Database search and replace: replace http://www.cosmeticraft.infinityfreeapp.com in backup dump with http://cosmeticraft.local
+0010.446 () Database search and replace: replace http://cosmeticraft.infinityfreeapp.com in backup dump with http://cosmeticraft.local
+0010.446 () Database search and replace: replace https://www.cosmeticraft.infinityfreeapp.com in backup dump with http://cosmeticraft.local
+0010.446 () Database search and replace: replace /home/vol15_8/infinityfree.com/if0_35691916/htdocs in backup dump with C:\Users\zayd-\Local Sites\cosmeticraft\app\public
+0010.447 () Search and replacing table: wp_actionscheduler_actions: already done
+0010.447 () Search and replacing table: wp_actionscheduler_claims: already done
+0010.447 () Search and replacing table: wp_actionscheduler_groups: already done
+0010.447 () Search and replacing table: wp_actionscheduler_logs: already done
+0010.447 () Search and replacing table: wp_aioseo_cache: already done
+0010.447 () Search and replacing table: wp_aioseo_notifications: already done
+0010.447 () Search and replacing table: wp_aioseo_posts: already done
+0010.447 () Search and replacing table: wp_commentmeta: already done
+0010.447 () Search and replacing table: wp_comments: already done
+0010.447 () Search and replacing table: wp_links: already done
+0010.448 () Search and replacing table: wp_options: already done
+0010.448 () Search and replacing table: wp_postmeta: already done
+0010.448 () Search and replacing table: wp_posts: already done
+0010.448 () Search and replacing table: wp_term_relationships: already done
+0010.448 () Search and replacing table: wp_term_taxonomy: already done
+0010.448 () Search and replacing table: wp_termmeta: already done
+0010.448 () Search and replacing table: wp_terms: already done
+0010.448 () Search and replacing table: wp_usermeta: already done
+0010.448 () Search and replacing table: wp_users: already done
+0010.448 () Search and replacing table: wp_wpforms_payment_meta: already done
+0010.448 () Search and replacing table: wp_wpforms_payments: already done
+0010.448 () Search and replacing table: wp_wpforms_tasks_meta: already done
+0010.448 () Search and replacing table: wp_wpmailsmtp_debug_events: already done
+0010.448 () Search and replacing table: wp_wpmailsmtp_tasks_meta: already done
+0010.448 () Search and replacing table: wp_yoast_indexable: already done
+0010.448 () Search and replacing table: wp_yoast_indexable_hierarchy: already done
+0010.448 () Search and replacing table: wp_yoast_migrations: already done
+0010.448 () Search and replacing table: wp_yoast_primary_term: already done
+0010.448 () Search and replacing table: wp_yoast_seo_links: already done
+0010.707 () Entity: plugins
+0010.707 () restore_backup(backup_file=backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins.zip, type=plugins, info=a:3:{s:4:"path";s:69:"C:\Users\zayd-\Local Sites\cosmeticraft\app\public/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0010.707 () Unpacking backup... (backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins.zip, 6.7 MB)
+0010.726 () Unzipping backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins.zip to C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/759f0217/ using UpdraftPlus_ZipArchive, starting index 0
+0011.214 () Unzip progress: 1283 out of 2228 files (590 B, plugins/kadence-starter-templates/assets/css/src/starter-import-export.scss)
+0013.565 () Unzip progress: 2228 out of 2228 files (22.6 MB, plugins/updraftplus/vendor/phpseclib/phpseclib/phpseclib/Net/SSH2.php)
+0013.568 () Moving old data: filesystem method / updraft_dir is potentially possible
+0013.568 () Moving old data: can potentially use wp_filesystem method / -old
+0013.568 () Moving old data out of the way...
+0014.528 () Top-level entities being moved: all-in-one-seo-pack, astra-sites, index.php, kadence-starter-templates, ultimate-addons-for-gutenberg, updraftplus, wp-mail-smtp, wpforms-lite
+0014.546 () Moving unpacked backup into place...
+0014.969 () Top-level entities being moved: astra-sites, kadence-starter-templates, really-simple-ssl, ultimate-addons-for-gutenberg, updraftplus, wordpress-seo, wp-mail-smtp, wpforms-lite
+0014.984 () Cleaning up rubbish...
+0014.990 () restore_backup(backup_file=backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins2.zip, type=plugins, info=a:3:{s:4:"path";s:69:"C:\Users\zayd-\Local Sites\cosmeticraft\app\public/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0014.990 () Unpacking backup... (backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins2.zip, 25 MB)
+0014.991 () Unzipping backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins2.zip to C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/924cbfa0/ using UpdraftPlus_ZipArchive, starting index 0
+0019.879 () Unzip progress: 1002 out of 4695 files (8 MB, plugins/wp-mail-smtp/vendor_prefixed/monolog/monolog/src/Monolog/Handler/HipChatHandler.php)
+0026.363 () Unzip progress: 2003 out of 4695 files (26.9 MB, plugins/wpforms-lite/src/SmartTags/SmartTag/UserFirstName.php)
+0032.842 () Unzip progress: 3004 out of 4695 files (41.7 MB, plugins/ultimate-addons-for-gutenberg/includes/blocks/image/frontend.css.php)
+0037.750 () Unzip progress: 4005 out of 4695 files (96.7 MB, plugins/really-simple-ssl/security/functions.php)
+0040.975 () Unzip progress: 4695 out of 4695 files (102.1 MB, plugins/wordpress-seo/css/dist/tailwind-2170-rtl.css)
+0040.977 () Moving unpacked backup into place...
+0041.468 () Top-level entities being moved: astra-sites, index.php, really-simple-ssl, ultimate-addons-for-gutenberg, updraftplus, wordpress-seo, wp-mail-smtp, wpforms-lite
+0047.440 () Cleaning up rubbish...
+0047.449 () restore_backup(backup_file=backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins3.zip, type=plugins, info=a:3:{s:4:"path";s:69:"C:\Users\zayd-\Local Sites\cosmeticraft\app\public/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0047.450 () Unpacking backup... (backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins3.zip, 3.6 MB)
+0047.451 () Unzipping backup_2024-01-11-0029_CosmetiCraft_6213318de370-plugins3.zip to C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/4a332dc3/ using UpdraftPlus_ZipArchive, starting index 0
+0050.676 () Unzip progress: 1002 out of 1052 files (11.4 MB, plugins/wordpress-seo/vendor_prefixed/wordproof/wordpress-sdk/app/Controllers/AuthenticationController.php)
+0050.923 () Unzip progress: 1052 out of 1052 files (11.6 MB, plugins/wordpress-seo/wp-seo.php)
+0050.924 () Moving unpacked backup into place...
+0051.024 () Top-level entities being moved: wordpress-seo
+0052.114 () Cleaning up rubbish...
+0052.138 () Entity: themes
+0052.138 () restore_backup(backup_file=backup_2024-01-11-0029_CosmetiCraft_6213318de370-themes.zip, type=themes, info=a:3:{s:4:"path";s:68:"C:\Users\zayd-\Local Sites\cosmeticraft\app\public/wp-content/themes";s:11:"description";s:6:"Themes";s:20:"singular_description";s:5:"Theme";}, last_one=)
+0052.138 () Unpacking backup... (backup_2024-01-11-0029_CosmetiCraft_6213318de370-themes.zip, 5.6 MB)
+0052.139 () Unzipping backup_2024-01-11-0029_CosmetiCraft_6213318de370-themes.zip to C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/47a92dd4/ using UpdraftPlus_ZipArchive, starting index 0
+0055.788 () Unzip progress: 1002 out of 1041 files (18 MB, themes/astra/template-parts/header/builder/desktop-builder-layout.php)
+0055.904 () Unzip progress: 1041 out of 1041 files (18.6 MB, themes/astra/wpml-config.xml)
+0055.906 () Moving old data: filesystem method / updraft_dir is potentially possible
+0055.906 () Moving old data: can potentially use wp_filesystem method / -old
+0055.906 () Moving old data out of the way...
+0056.252 () Top-level entities being moved: astra, index.php, kadence, twentytwentyfour, twentytwentythree, twentytwentytwo
+0056.262 () Moving unpacked backup into place...
+0056.389 () Top-level entities being moved: astra, index.php
+0056.393 () Cleaning up rubbish...
+0056.408 () Entity: uploads
+0056.409 () restore_backup(backup_file=backup_2024-01-11-0029_CosmetiCraft_6213318de370-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:69:"C:\Users\zayd-\Local Sites\cosmeticraft\app\public/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0056.409 () Unpacking backup... (backup_2024-01-11-0029_CosmetiCraft_6213318de370-uploads.zip, 13.5 MB)
+0056.410 () Unzipping backup_2024-01-11-0029_CosmetiCraft_6213318de370-uploads.zip to C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/be3cff2e/ using UpdraftPlus_ZipArchive, starting index 0
+0056.726 () Unzip progress: 208 out of 208 files (15.9 MB, uploads/.htaccess)
+0056.728 () Moving old data: filesystem method / updraft_dir is potentially possible
+0056.729 () Moving old data: can potentially use wp_filesystem method / -old
+0056.729 () Moving old data out of the way...
+0056.767 () Moving unpacked backup into place...
+0056.792 () Cleaning up rubbish...
+0056.807 () Entity: others
+0056.807 () restore_backup(backup_file=backup_2024-01-11-0029_CosmetiCraft_6213318de370-others.zip, type=others, info=a:2:{s:4:"path";s:61:"C:\Users\zayd-\Local Sites\cosmeticraft\app\public/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0056.807 () Unpacking backup... (backup_2024-01-11-0029_CosmetiCraft_6213318de370-others.zip, 0.2 MB)
+0056.808 () Unzipping backup_2024-01-11-0029_CosmetiCraft_6213318de370-others.zip to C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/34578121/ using UpdraftPlus_ZipArchive, starting index 0
+0056.825 () Unzip progress: 14 out of 14 files (188.7 KB, index.php)
+0056.832 () Cleaning up rubbish...
+0056.832 () PHP event: code E_WARNING: rmdir(C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/34578121): Directory not empty (line 386, C:\Users\zayd-\Local Sites\cosmeticraft\app\public\wp-admin\includes\class-wp-filesystem-direct.php)
+0056.832 () Error: Failed to delete working directory after restoring. (C:/Users/zayd-/Local Sites/cosmeticraft/app/public/wp-content/upgrade/34578121)
+0057.364 () Restore successful!
+0057.364 () Restore successful

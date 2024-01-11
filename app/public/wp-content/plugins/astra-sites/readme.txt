@@ -3,9 +3,9 @@ Contributors: brainstormforce
 Donate link: https://wpastra.com/pro/
 Tags: Elementor,Beaver Builder,Templates,Gutenberg,Block Editor,Astra Starter Sites
 Requires at least: 4.4
-Requires PHP: 5.3
+Requires PHP: 7.4
 Tested up to: 6.4
-Stable tag: 3.5.5
+Stable tag: 4.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -134,6 +134,23 @@ We are open to suggestions and would love to work on topics that our users are l
 8. Free Images by Pixabay right inside the WordPress media popup.
 
 == Changelog ==
+
+v4.0.1 - 04-January-2024
+- Fix: Fixed an issue where the CSS looked messed up after importing using AI Website Builder.
+
+v4.0.0 - 03-January-2024
+- New: AI Website Builder.
+- Fix: Tightened the plugin security.
+
+v3.5.7 - 30-December-2023
+- Fix: Fixed Template Kit library conflict ( 503 Error ) with Gravity Form plugin.
+
+v3.5.6 - 27-December-2023
+- New: Expanded the Template Kit Library by introducing site templates for an enriched selection of design options.
+- Improvement: Enhanced the WordPress Dashboard banner for improved visibility.
+- Improvement: Streamlined compatibility by discontinuing support for PHP versions below 7.4
+- Fix: Fixed the persistent customizer CSS issue in non-adaptive mode within the Template Kit Library.
+- Fix: Enhanced compatibility in Template Kits Library to ensure seamless template display even when Spectra is activated midway through the import process.
 
 v3.5.5 - 19-December-2023
 - Improvement: User Interface improvements for the Template Kit library.
